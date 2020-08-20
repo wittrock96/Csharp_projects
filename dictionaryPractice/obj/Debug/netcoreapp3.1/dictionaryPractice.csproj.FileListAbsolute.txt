@@ -1,0 +1,13 @@
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\dictionaryPractice\bin\Debug\netcoreapp3.1\dictionaryPractice.exe
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\dictionaryPractice\bin\Debug\netcoreapp3.1\dictionaryPractice.deps.json
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\dictionaryPractice\bin\Debug\netcoreapp3.1\dictionaryPractice.runtimeconfig.json
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\dictionaryPractice\bin\Debug\netcoreapp3.1\dictionaryPractice.runtimeconfig.dev.json
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\dictionaryPractice\bin\Debug\netcoreapp3.1\dictionaryPractice.dll
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\dictionaryPractice\bin\Debug\netcoreapp3.1\dictionaryPractice.pdb
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\dictionaryPractice\obj\Debug\netcoreapp3.1\dictionaryPractice.csprojAssemblyReference.cache
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\dictionaryPractice\obj\Debug\netcoreapp3.1\dictionaryPractice.AssemblyInfoInputs.cache
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\dictionaryPractice\obj\Debug\netcoreapp3.1\dictionaryPractice.AssemblyInfo.cs
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\dictionaryPractice\obj\Debug\netcoreapp3.1\dictionaryPractice.csproj.CoreCompileInputs.cache
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\dictionaryPractice\obj\Debug\netcoreapp3.1\dictionaryPractice.dll
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\dictionaryPractice\obj\Debug\netcoreapp3.1\dictionaryPractice.pdb
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\dictionaryPractice\obj\Debug\netcoreapp3.1\dictionaryPractice.genruntimeconfig.cache

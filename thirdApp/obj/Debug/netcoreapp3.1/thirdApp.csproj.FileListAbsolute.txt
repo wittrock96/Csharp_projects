@@ -1,0 +1,13 @@
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\thirdApp\bin\Debug\netcoreapp3.1\thirdApp.exe
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\thirdApp\bin\Debug\netcoreapp3.1\thirdApp.deps.json
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\thirdApp\bin\Debug\netcoreapp3.1\thirdApp.runtimeconfig.json
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\thirdApp\bin\Debug\netcoreapp3.1\thirdApp.runtimeconfig.dev.json
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\thirdApp\bin\Debug\netcoreapp3.1\thirdApp.dll
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\thirdApp\bin\Debug\netcoreapp3.1\thirdApp.pdb
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\thirdApp\obj\Debug\netcoreapp3.1\thirdApp.csprojAssemblyReference.cache
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\thirdApp\obj\Debug\netcoreapp3.1\thirdApp.AssemblyInfoInputs.cache
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\thirdApp\obj\Debug\netcoreapp3.1\thirdApp.AssemblyInfo.cs
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\thirdApp\obj\Debug\netcoreapp3.1\thirdApp.csproj.CoreCompileInputs.cache
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\thirdApp\obj\Debug\netcoreapp3.1\thirdApp.dll
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\thirdApp\obj\Debug\netcoreapp3.1\thirdApp.pdb
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\thirdApp\obj\Debug\netcoreapp3.1\thirdApp.genruntimeconfig.cache

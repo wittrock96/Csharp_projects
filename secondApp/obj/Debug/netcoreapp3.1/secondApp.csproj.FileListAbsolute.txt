@@ -1,0 +1,13 @@
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\secondApp\bin\Debug\netcoreapp3.1\secondApp.exe
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\secondApp\bin\Debug\netcoreapp3.1\secondApp.deps.json
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\secondApp\bin\Debug\netcoreapp3.1\secondApp.runtimeconfig.json
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\secondApp\bin\Debug\netcoreapp3.1\secondApp.runtimeconfig.dev.json
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\secondApp\bin\Debug\netcoreapp3.1\secondApp.dll
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\secondApp\bin\Debug\netcoreapp3.1\secondApp.pdb
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\secondApp\obj\Debug\netcoreapp3.1\secondApp.csprojAssemblyReference.cache
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\secondApp\obj\Debug\netcoreapp3.1\secondApp.AssemblyInfoInputs.cache
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\secondApp\obj\Debug\netcoreapp3.1\secondApp.AssemblyInfo.cs
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\secondApp\obj\Debug\netcoreapp3.1\secondApp.csproj.CoreCompileInputs.cache
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\secondApp\obj\Debug\netcoreapp3.1\secondApp.dll
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\secondApp\obj\Debug\netcoreapp3.1\secondApp.pdb
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\secondApp\obj\Debug\netcoreapp3.1\secondApp.genruntimeconfig.cache

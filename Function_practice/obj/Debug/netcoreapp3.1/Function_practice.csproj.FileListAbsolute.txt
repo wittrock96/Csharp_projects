@@ -1,0 +1,13 @@
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\Function_practice\bin\Debug\netcoreapp3.1\Function_practice.exe
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\Function_practice\bin\Debug\netcoreapp3.1\Function_practice.deps.json
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\Function_practice\bin\Debug\netcoreapp3.1\Function_practice.runtimeconfig.json
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\Function_practice\bin\Debug\netcoreapp3.1\Function_practice.runtimeconfig.dev.json
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\Function_practice\bin\Debug\netcoreapp3.1\Function_practice.dll
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\Function_practice\bin\Debug\netcoreapp3.1\Function_practice.pdb
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\Function_practice\obj\Debug\netcoreapp3.1\Function_practice.csprojAssemblyReference.cache
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\Function_practice\obj\Debug\netcoreapp3.1\Function_practice.AssemblyInfoInputs.cache
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\Function_practice\obj\Debug\netcoreapp3.1\Function_practice.AssemblyInfo.cs
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\Function_practice\obj\Debug\netcoreapp3.1\Function_practice.csproj.CoreCompileInputs.cache
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\Function_practice\obj\Debug\netcoreapp3.1\Function_practice.dll
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\Function_practice\obj\Debug\netcoreapp3.1\Function_practice.pdb
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\Function_practice\obj\Debug\netcoreapp3.1\Function_practice.genruntimeconfig.cache
