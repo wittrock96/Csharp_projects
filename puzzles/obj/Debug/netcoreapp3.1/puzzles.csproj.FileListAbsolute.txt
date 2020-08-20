@@ -1,0 +1,13 @@
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\puzzles\bin\Debug\netcoreapp3.1\puzzles.exe
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\puzzles\bin\Debug\netcoreapp3.1\puzzles.deps.json
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\puzzles\bin\Debug\netcoreapp3.1\puzzles.runtimeconfig.json
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\puzzles\bin\Debug\netcoreapp3.1\puzzles.runtimeconfig.dev.json
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\puzzles\bin\Debug\netcoreapp3.1\puzzles.dll
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\puzzles\bin\Debug\netcoreapp3.1\puzzles.pdb
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\puzzles\obj\Debug\netcoreapp3.1\puzzles.csprojAssemblyReference.cache
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\puzzles\obj\Debug\netcoreapp3.1\puzzles.AssemblyInfoInputs.cache
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\puzzles\obj\Debug\netcoreapp3.1\puzzles.AssemblyInfo.cs
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\puzzles\obj\Debug\netcoreapp3.1\puzzles.csproj.CoreCompileInputs.cache
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\puzzles\obj\Debug\netcoreapp3.1\puzzles.dll
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\puzzles\obj\Debug\netcoreapp3.1\puzzles.pdb
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\puzzles\obj\Debug\netcoreapp3.1\puzzles.genruntimeconfig.cache
