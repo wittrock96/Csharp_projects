@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Motus Test Workbench\\Desktop\\projects\\cSharp_projects\\secondApp\\secondApp.csproj": {}
+    "C:\\Users\\Motus Test Workbench\\Desktop\\projects\\cSharp_projects\\hungry_ninja\\hungry_ninja.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Motus Test Workbench\\Desktop\\projects\\cSharp_projects\\secondApp\\secondApp.csproj": {
+    "C:\\Users\\Motus Test Workbench\\Desktop\\projects\\cSharp_projects\\hungry_ninja\\hungry_ninja.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Motus Test Workbench\\Desktop\\projects\\cSharp_projects\\secondApp\\secondApp.csproj",
-        "projectName": "secondApp",
-        "projectPath": "C:\\Users\\Motus Test Workbench\\Desktop\\projects\\cSharp_projects\\secondApp\\secondApp.csproj",
+        "projectUniqueName": "C:\\Users\\Motus Test Workbench\\Desktop\\projects\\cSharp_projects\\hungry_ninja\\hungry_ninja.csproj",
+        "projectName": "hungry_ninja",
+        "projectPath": "C:\\Users\\Motus Test Workbench\\Desktop\\projects\\cSharp_projects\\hungry_ninja\\hungry_ninja.csproj",
         "packagesPath": "C:\\Users\\Motus Test Workbench\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Motus Test Workbench\\Desktop\\projects\\cSharp_projects\\secondApp\\obj\\",
+        "outputPath": "C:\\Users\\Motus Test Workbench\\Desktop\\projects\\cSharp_projects\\hungry_ninja\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Motus Test Workbench\\AppData\\Roaming\\NuGet\\NuGet.Config",

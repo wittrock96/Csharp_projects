@@ -1,0 +1,13 @@
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\hungry_ninja\obj\Debug\netcoreapp3.1\hungry_ninja.csprojAssemblyReference.cache
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\hungry_ninja\obj\Debug\netcoreapp3.1\hungry_ninja.AssemblyInfoInputs.cache
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\hungry_ninja\obj\Debug\netcoreapp3.1\hungry_ninja.AssemblyInfo.cs
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\hungry_ninja\obj\Debug\netcoreapp3.1\hungry_ninja.csproj.CoreCompileInputs.cache
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\hungry_ninja\bin\Debug\netcoreapp3.1\hungry_ninja.exe
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\hungry_ninja\bin\Debug\netcoreapp3.1\hungry_ninja.deps.json
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\hungry_ninja\bin\Debug\netcoreapp3.1\hungry_ninja.runtimeconfig.json
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\hungry_ninja\bin\Debug\netcoreapp3.1\hungry_ninja.runtimeconfig.dev.json
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\hungry_ninja\bin\Debug\netcoreapp3.1\hungry_ninja.dll
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\hungry_ninja\bin\Debug\netcoreapp3.1\hungry_ninja.pdb
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\hungry_ninja\obj\Debug\netcoreapp3.1\hungry_ninja.dll
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\hungry_ninja\obj\Debug\netcoreapp3.1\hungry_ninja.pdb
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\hungry_ninja\obj\Debug\netcoreapp3.1\hungry_ninja.genruntimeconfig.cache

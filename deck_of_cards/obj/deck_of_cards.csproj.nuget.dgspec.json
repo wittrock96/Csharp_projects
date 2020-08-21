@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Motus Test Workbench\\Desktop\\projects\\cSharp_projects\\secondApp\\secondApp.csproj": {}
+    "C:\\Users\\Motus Test Workbench\\Desktop\\projects\\cSharp_projects\\deck_of_cards\\deck_of_cards.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Motus Test Workbench\\Desktop\\projects\\cSharp_projects\\secondApp\\secondApp.csproj": {
+    "C:\\Users\\Motus Test Workbench\\Desktop\\projects\\cSharp_projects\\deck_of_cards\\deck_of_cards.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Motus Test Workbench\\Desktop\\projects\\cSharp_projects\\secondApp\\secondApp.csproj",
-        "projectName": "secondApp",
-        "projectPath": "C:\\Users\\Motus Test Workbench\\Desktop\\projects\\cSharp_projects\\secondApp\\secondApp.csproj",
+        "projectUniqueName": "C:\\Users\\Motus Test Workbench\\Desktop\\projects\\cSharp_projects\\deck_of_cards\\deck_of_cards.csproj",
+        "projectName": "deck_of_cards",
+        "projectPath": "C:\\Users\\Motus Test Workbench\\Desktop\\projects\\cSharp_projects\\deck_of_cards\\deck_of_cards.csproj",
         "packagesPath": "C:\\Users\\Motus Test Workbench\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Motus Test Workbench\\Desktop\\projects\\cSharp_projects\\secondApp\\obj\\",
+        "outputPath": "C:\\Users\\Motus Test Workbench\\Desktop\\projects\\cSharp_projects\\deck_of_cards\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Motus Test Workbench\\AppData\\Roaming\\NuGet\\NuGet.Config",
