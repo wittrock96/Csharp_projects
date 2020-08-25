@@ -1,0 +1,13 @@
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\iron_ninja\bin\Debug\netcoreapp3.1\iron_ninja.exe
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\iron_ninja\bin\Debug\netcoreapp3.1\iron_ninja.deps.json
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\iron_ninja\bin\Debug\netcoreapp3.1\iron_ninja.runtimeconfig.json
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\iron_ninja\bin\Debug\netcoreapp3.1\iron_ninja.runtimeconfig.dev.json
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\iron_ninja\bin\Debug\netcoreapp3.1\iron_ninja.dll
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\iron_ninja\bin\Debug\netcoreapp3.1\iron_ninja.pdb
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\iron_ninja\obj\Debug\netcoreapp3.1\iron_ninja.csprojAssemblyReference.cache
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\iron_ninja\obj\Debug\netcoreapp3.1\iron_ninja.AssemblyInfoInputs.cache
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\iron_ninja\obj\Debug\netcoreapp3.1\iron_ninja.AssemblyInfo.cs
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\iron_ninja\obj\Debug\netcoreapp3.1\iron_ninja.csproj.CoreCompileInputs.cache
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\iron_ninja\obj\Debug\netcoreapp3.1\iron_ninja.dll
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\iron_ninja\obj\Debug\netcoreapp3.1\iron_ninja.pdb
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\iron_ninja\obj\Debug\netcoreapp3.1\iron_ninja.genruntimeconfig.cache

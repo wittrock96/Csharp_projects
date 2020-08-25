@@ -1,0 +1,13 @@
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\dnd\bin\Debug\netcoreapp3.1\dnd.exe
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\dnd\bin\Debug\netcoreapp3.1\dnd.deps.json
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\dnd\bin\Debug\netcoreapp3.1\dnd.runtimeconfig.json
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\dnd\bin\Debug\netcoreapp3.1\dnd.runtimeconfig.dev.json
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\dnd\bin\Debug\netcoreapp3.1\dnd.dll
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\dnd\bin\Debug\netcoreapp3.1\dnd.pdb
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\dnd\obj\Debug\netcoreapp3.1\dnd.csprojAssemblyReference.cache
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\dnd\obj\Debug\netcoreapp3.1\dnd.AssemblyInfoInputs.cache
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\dnd\obj\Debug\netcoreapp3.1\dnd.AssemblyInfo.cs
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\dnd\obj\Debug\netcoreapp3.1\dnd.csproj.CoreCompileInputs.cache
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\dnd\obj\Debug\netcoreapp3.1\dnd.dll
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\dnd\obj\Debug\netcoreapp3.1\dnd.pdb
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\dnd\obj\Debug\netcoreapp3.1\dnd.genruntimeconfig.cache
