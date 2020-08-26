@@ -14395,6 +14395,16 @@
       "FilePath": "c:\\Users\\Motus Test Workbench\\Desktop\\projects\\cSharp_projects\\firstWebApp\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Motus Test Workbench\\Desktop\\projects\\cSharp_projects\\firstWebApp\\Views\\projects\\projects.cshtml",
+      "TargetPath": "Views\\projects\\projects.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Motus Test Workbench\\Desktop\\projects\\cSharp_projects\\firstWebApp\\Views\\contact\\contact.cshtml",
+      "TargetPath": "Views\\contact\\contact.cshtml",
+      "FileKind": "mvc"
     }
   ],
   "SerializationFormat": "0.2"

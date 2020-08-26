@@ -49,8 +49,12 @@ namespace firstWebApp
                 );
 
                 endpoints.MapControllerRoute(
-                    name: "contact",
-                    pattern: "{controller=contact}"
+                    name: "Contact",
+                    pattern: "{controller=Contact}"
+                );
+                      endpoints.MapControllerRoute(
+                    name: "Projects",
+                    pattern: "{controller=Projects}"
                 );
             });
         }

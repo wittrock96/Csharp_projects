@@ -3,6 +3,8 @@ using System.Collections.Generic;
 
 using Microsoft.AspNetCore.Mvc;
 
+
+
 namespace firstWebApp
 {
     public class homeController : Controller
@@ -26,6 +28,30 @@ namespace firstWebApp
             // ViewResult myview = View();
             // return myview;
             return View();
+        }
+
+        [HttpGet]
+        [Route("/getuser")]
+
+        public RedirectToActionResult method(){
+
+      
+            return RedirectToAction("aboutMe");
+
+        }
+
+        [HttpGet]
+        [Route("/aboutMe")]
+
+        public JsonResult aboutMe(){
+
+            var AnonObject = new {
+                FirstName = "Raz",
+                LastName = "Aquato",
+                Age = 10
+            };
+            return Json(AnonObject);
+
         }
 
         // [HttpGet("projects")]

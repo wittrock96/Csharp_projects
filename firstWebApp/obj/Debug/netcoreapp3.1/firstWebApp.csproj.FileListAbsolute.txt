@@ -29,3 +29,5 @@ C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\firstWebApp\obj\D
 C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\firstWebApp\obj\Debug\netcoreapp3.1\firstWebApp.RazorTargetAssemblyInfo.cs
 C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\firstWebApp\obj\Debug\netcoreapp3.1\firstWebApp.Views.pdb
 C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\firstWebApp\obj\Debug\netcoreapp3.1\firstWebApp.csproj.CopyComplete
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\firstWebApp\obj\Debug\netcoreapp3.1\Razor\Views\projects\projects.cshtml.g.cs
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\firstWebApp\obj\Debug\netcoreapp3.1\Razor\Views\contact\contact.cshtml.g.cs
