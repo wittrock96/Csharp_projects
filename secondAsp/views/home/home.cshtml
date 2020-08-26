@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>secondapp</title>
+</head>
+<body>
+    <h1>here are some delicious foods</h1>
+        @{
+            string[] food = {"pie", "steak", "chicken", "burger", "cheesecake"};
+
+            foreach(string str in food){
+                
+          
+                if(str.Substring(0,1) == "c"){
+                    <p style="color: red;">@str</p>
+                }
+                else{
+                    <p>@str</p>
+                }
+                    
+                
+            }
+           
+
+        }
+        
+
+
+    
+
+    
+</body>
+</html>

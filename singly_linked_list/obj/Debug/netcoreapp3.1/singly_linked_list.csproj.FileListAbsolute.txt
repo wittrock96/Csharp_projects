@@ -1,0 +1,13 @@
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\singly_linked_list\bin\Debug\netcoreapp3.1\singly_linked_list.exe
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\singly_linked_list\bin\Debug\netcoreapp3.1\singly_linked_list.deps.json
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\singly_linked_list\bin\Debug\netcoreapp3.1\singly_linked_list.runtimeconfig.json
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\singly_linked_list\bin\Debug\netcoreapp3.1\singly_linked_list.runtimeconfig.dev.json
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\singly_linked_list\bin\Debug\netcoreapp3.1\singly_linked_list.dll
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\singly_linked_list\bin\Debug\netcoreapp3.1\singly_linked_list.pdb
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\singly_linked_list\obj\Debug\netcoreapp3.1\singly_linked_list.csprojAssemblyReference.cache
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\singly_linked_list\obj\Debug\netcoreapp3.1\singly_linked_list.AssemblyInfoInputs.cache
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\singly_linked_list\obj\Debug\netcoreapp3.1\singly_linked_list.AssemblyInfo.cs
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\singly_linked_list\obj\Debug\netcoreapp3.1\singly_linked_list.csproj.CoreCompileInputs.cache
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\singly_linked_list\obj\Debug\netcoreapp3.1\singly_linked_list.dll
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\singly_linked_list\obj\Debug\netcoreapp3.1\singly_linked_list.pdb
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\singly_linked_list\obj\Debug\netcoreapp3.1\singly_linked_list.genruntimeconfig.cache
