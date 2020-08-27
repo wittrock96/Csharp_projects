@@ -23,10 +23,17 @@ namespace firstWebApp
         [Route("")]
         
 
-        public ViewResult Index()
+        public IActionResult Index()
         {
             // ViewResult myview = View();
             // return myview;
+
+            DateTime rightnow = DateTime.Now;
+            string thistime = rightnow.ToString("hh-mm-tt");
+            string thisdate = rightnow.ToString("MM-dd-yyyy");
+
+            ViewBag.Example = thistime;
+            ViewBag.Example2 = thisdate;
             return View();
         }
 

@@ -24,6 +24,8 @@ namespace firstWebApp
         {
             if (env.IsDevelopment())
             {
+                
+                app.UseStaticFiles();
                 app.UseDeveloperExceptionPage();
             }
 
