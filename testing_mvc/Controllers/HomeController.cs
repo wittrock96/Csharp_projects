@@ -23,6 +23,37 @@ namespace testing_mvc.Controllers
             return View();
         }
 
+        [HttpGet("names")]
+
+        public IActionResult Names()
+        {
+            string[] names = new string[]
+            {
+                "sally", "Billy", "Joes", "Moose"
+            };
+            return View(names);
+        }
+
+        [HttpGet("numbers")]
+
+        public IActionResult numbers()
+        {
+            int[] numbers = new int[]
+            {
+                51,2,2,3,34,55,66,113,44,55,77,134
+            };
+            return View(numbers); 
+        }
+
+        [HttpGet("user")]
+
+        public IActionResult user()
+        {
+            string thisuser = "cole";
+
+            return View((object)thisuser);
+        }
+
         public IActionResult Privacy()
         {
             return View();

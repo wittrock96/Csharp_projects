@@ -14392,8 +14392,8 @@
   "RootNamespace": "dojo_survey",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\Motus Test Workbench\\Desktop\\projects\\cSharp_projects\\dojo_survey\\Views\\survey\\Survey.cshtml",
-      "TargetPath": "Views\\survey\\Survey.cshtml",
+      "FilePath": "c:\\Users\\Motus Test Workbench\\Desktop\\projects\\cSharp_projects\\dojo_survey\\Views\\Survey\\Survey.cshtml",
+      "TargetPath": "Views\\Survey\\Survey.cshtml",
       "FileKind": "mvc"
     },
     {

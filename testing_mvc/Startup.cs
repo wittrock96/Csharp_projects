@@ -47,6 +47,11 @@ namespace testing_mvc
                 endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");
+
+                endpoints.MapControllerRoute(
+                    name: "Survey",
+                    pattern: "{controller=Survey}"
+                );
             });
         }
     }
