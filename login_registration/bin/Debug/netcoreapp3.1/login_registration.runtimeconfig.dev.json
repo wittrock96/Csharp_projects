@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Motus Test Workbench\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Motus Test Workbench\\.nuget\\packages"
+    ]
+  }
+}

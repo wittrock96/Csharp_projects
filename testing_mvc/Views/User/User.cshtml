@@ -1,0 +1,31 @@
+<h2>please register your account</h2>
+
+@model User
+<form asp-action="Create" asp-controller="User" method="POST">
+
+
+
+
+
+    <span asp-validation-for="firstName"></span>
+    <label asp-for="firstName">First Name:</label>
+    <input asp-for="firstName">
+    <span asp-validation-for="lastName"></span>
+    <label asp-for="lastName">Last Name:</label>
+    <input asp-for="lastName">
+    <span asp-validation-for="age"></span>
+    <label asp-for="age">Age:</label>
+    <input asp-for="age" type="number">
+    <span asp-validation-for="EmailAddress"></span>
+    <label asp-for="EmailAddress">Email Address:</label>
+    <input asp-for="EmailAddress">
+    <span asp-validation-for="pswd"></span>
+    <label asp-for="pswd">Password:</label>
+    <input asp-for="pswd">
+    <span asp-validation-for="startDay"></span>
+    <label asp-for="startDay">startDay: </label>
+    <input asp-for="startDay" type="date">
+    <input value="Add User" type="submit">
+
+
+</form>

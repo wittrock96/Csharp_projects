@@ -1,0 +1,23 @@
+@model RegUser
+<form asp-action="Create" asp-controller="RegUser" method="POST">
+
+
+
+
+
+    <span asp-validation-for="first_name"></span>
+    <label asp-for="first_name">First Name:</label>
+    <input asp-for="first_name">
+    <span asp-validation-for="last_name"></span>
+    <label asp-for="last_name">Last Name:</label>
+    <input asp-for="last_name">
+    <span asp-validation-for="email"></span>
+    <label asp-for="email">Email Address:</label>
+    <input asp-for="email">
+    <span asp-validation-for="pswd"></span>
+    <label asp-for="pswd">Password:</label>
+    <input asp-for="pswd">
+    <input value="Add User" type="submit">
+
+
+</form>

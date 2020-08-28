@@ -1,0 +1,14 @@
+@model LogUser
+<form asp-action="LogIn" asp-controller="LogUser" method="POST">
+
+
+    <span asp-validation-for="email"></span>
+    <label asp-for="email">Email Address:</label>
+    <input asp-for="email">
+    <span asp-validation-for="pswd"></span>
+    <label asp-for="pswd">Password:</label>
+    <input asp-for="pswd">
+    <input value="Add User" type="submit">
+
+
+</form>

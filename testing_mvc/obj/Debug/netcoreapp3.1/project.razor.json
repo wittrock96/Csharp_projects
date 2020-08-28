@@ -14392,13 +14392,13 @@
   "RootNamespace": "testing_mvc",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\Motus Test Workbench\\Desktop\\projects\\cSharp_projects\\testing_mvc\\Views\\Home\\names.cshtml",
-      "TargetPath": "Views\\Home\\names.cshtml",
+      "FilePath": "c:\\Users\\Motus Test Workbench\\Desktop\\projects\\cSharp_projects\\testing_mvc\\Views\\Home\\Names.cshtml",
+      "TargetPath": "Views\\Home\\Names.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Motus Test Workbench\\Desktop\\projects\\cSharp_projects\\testing_mvc\\Views\\Home\\user.cshtml",
-      "TargetPath": "Views\\Home\\user.cshtml",
+      "FilePath": "c:\\Users\\Motus Test Workbench\\Desktop\\projects\\cSharp_projects\\testing_mvc\\Views\\Home\\User.cshtml",
+      "TargetPath": "Views\\Home\\User.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14422,6 +14422,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Motus Test Workbench\\Desktop\\projects\\cSharp_projects\\testing_mvc\\Views\\User\\Success.cshtml",
+      "TargetPath": "Views\\User\\Success.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Motus Test Workbench\\Desktop\\projects\\cSharp_projects\\testing_mvc\\Views\\Survey\\Survey.cshtml",
       "TargetPath": "Views\\Survey\\Survey.cshtml",
       "FileKind": "mvc"
@@ -14439,6 +14444,11 @@
     {
       "FilePath": "c:\\Users\\Motus Test Workbench\\Desktop\\projects\\cSharp_projects\\testing_mvc\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Motus Test Workbench\\Desktop\\projects\\cSharp_projects\\testing_mvc\\Views\\User\\User.cshtml",
+      "TargetPath": "Views\\User\\User.cshtml",
       "FileKind": "mvc"
     },
     {

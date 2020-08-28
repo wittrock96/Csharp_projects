@@ -39,3 +39,5 @@ C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\testing_mvc\obj\D
 C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\testing_mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Numbers.cshtml.g.cs
 C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\testing_mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\User.cshtml.g.cs
 C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\testing_mvc\obj\Debug\netcoreapp3.1\Razor\Views\Survey\Survey.cshtml.g.cs
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\testing_mvc\obj\Debug\netcoreapp3.1\Razor\Views\User\User.cshtml.g.cs
+C:\Users\Motus Test Workbench\Desktop\projects\cSharp_projects\testing_mvc\obj\Debug\netcoreapp3.1\Razor\Views\User\Success.cshtml.g.cs

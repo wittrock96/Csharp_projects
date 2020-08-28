@@ -52,6 +52,10 @@ namespace testing_mvc
                     name: "Survey",
                     pattern: "{controller=Survey}"
                 );
+                endpoints.MapControllerRoute(
+                    name: "User",
+                    pattern: "{controller=User}"
+                );
             });
         }
     }
