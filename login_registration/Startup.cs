@@ -25,6 +25,8 @@ namespace login_registration
             services.AddSession();
             services.AddControllersWithViews();
             services.AddMvc();
+            
+
           
             
         }
@@ -40,13 +42,14 @@ namespace login_registration
             {
                 app.UseExceptionHandler("/Home/Error");
             }
+            // app.UseMvc();
             app.UseStaticFiles();
 
             app.UseRouting();
 
 
             app.UseAuthorization();
-            app.UseMvc();
+            
 
             app.UseEndpoints(endpoints =>
             {
