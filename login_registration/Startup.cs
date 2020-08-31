@@ -42,7 +42,7 @@ namespace login_registration
             {
                 app.UseExceptionHandler("/Home/Error");
             }
-            // app.UseMvc();
+            
             app.UseStaticFiles();
 
             app.UseRouting();
@@ -50,7 +50,7 @@ namespace login_registration
 
             app.UseAuthorization();
             
-
+            // app.UseMvc();
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllerRoute(
