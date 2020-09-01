@@ -9,5 +9,8 @@ using DojoDachi.Models;
 
 namespace DojoDachi
 {
-
+    public class DachiController : Controller
+    {
+        
+    }
 }
