@@ -23,12 +23,7 @@ namespace Random_Passcode
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDistributedMemoryCache();
-            services.AddSession(options => {
-                options.IdleTimeout = TimeSpan.FromMinutes(30);
-                options.Cookie.Name = "cole.session";
-                options.Cookie.HttpOnly = true;
-                options.Cookie.IsEssential = true;
-            });
+            services.AddSession();
             services.AddControllersWithViews();
             // services.AddMvc();
         }
