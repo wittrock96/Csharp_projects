@@ -1,0 +1,6 @@
+<h1>This is the quotes</h1>
+
+@foreach (var quote in ViewBag.quotes)
+{
+    <li>@quote["Name"] @quote["saying"]</li>
+}

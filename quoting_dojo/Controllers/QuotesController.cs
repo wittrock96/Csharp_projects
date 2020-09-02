@@ -12,11 +12,24 @@ namespace quoting_dojo
 {
     public class QuotesController : Controller
     {
+
+
+        [HttpPost("/Quote/create")]
         public ActionResult create(Quote thisquote){
+            Console.WriteLine(thisquote.Name);
 
-            string query = $"INSERT INTO Quote (Name, saying) VALUES ('{thisquote.Name}, {thisquote.saying}')";
+            string query = $"INSERT INTO Quote (Name, saying) VALUES ('{thisquote.Name}', '{thisquote.saying}')";
+            DbConnector.Query(query);
+            return Redirect("/quotes");
+        }
 
-            return Redirect("/");
+        [HttpGet("/quotes")]
+
+        public ActionResult Quotes()
+        {
+            List<Dictionary<string,object>> AllQuotes= DbConnector.Query("SELECT * FROM quote");
+            ViewBag.quotes = AllQuotes;
+            return View();
         }
     }
 }

@@ -1,9 +1,9 @@
 ﻿@* @{
     ViewData["Title"] = "Home Page";
 } *@
-
+@model Quote
 <div class="text-center">
-    @* @Model Quote
+    
     <form asp-action="Create" asp-controller="Quotes" method="POST">
         <span asp-validation-for="Name"></span>
         <label asp-for="Name">Your Name</label>
@@ -12,6 +12,8 @@
         <label asp-for="saying">Your Quote</label>
         <input asp-for="saying">
         <input value="Add Quote" type="submit">
-    </form> *@
+    </form>
+
+    <a href="/quotes">skip to quotes</a>
 
 </div>

@@ -14412,6 +14412,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Motus Test Workbench\\Desktop\\projects\\cSharp_projects\\quoting_dojo\\Views\\Quotes\\Quotes.cshtml",
+      "TargetPath": "Views\\Quotes\\Quotes.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Motus Test Workbench\\Desktop\\projects\\cSharp_projects\\quoting_dojo\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
